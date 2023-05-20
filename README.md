@@ -1,4 +1,5 @@
 # Micro Fpv Racer
+Turntable: https://youtu.be/2ZyJSmQPwxo
 
 STL and GCodes are available here: 
 | Carbon frame | 3d printed frame | 
