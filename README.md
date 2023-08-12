@@ -1,5 +1,4 @@
 # Micro Fpv Racer
-3 inch fpv racer for caddx vista vtx
 [Videos playlist](https://youtube.com/playlist?list=PLgceMsQyNMfT9rvlGa_Ch6L50eUYFBX7_)
 
 STL and GCodes are available here: 
